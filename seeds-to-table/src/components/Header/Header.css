@@ -1,4 +1,8 @@
 .page-title {
   font-family: MonteCarlo, cursive;
   font-size: 80px;
+  text-align: center;
+  word-spacing: 10px;
+  background-color: green;
+  padding: 100px;
 }
